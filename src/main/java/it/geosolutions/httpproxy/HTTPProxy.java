@@ -75,7 +75,7 @@ import org.apache.commons.httpclient.params.HttpConnectionManagerParams;
  * 
  * Update for managing HttpNonProxyhost 
  * @author Claudio Biancalana at claudio.biancalana@laitspa.it, LAit S.p.A.
- * @author Mirko Dalla Bernardina at mirko.dallabernardina@gmail.com, LAit S.p.A.
+ * @author Mirko Dalla Bernardina at mirko.dallabernardina@laitspa.it, LAit S.p.A.
  * 
  */
 public class HTTPProxy extends HttpServlet {
